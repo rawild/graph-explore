@@ -4,7 +4,7 @@ To run this program
 compile it with make graph-explore in the src directory
 
 
-The run ./graph-explore with the options for
+Then run ./graph-explore with the options for
 -h host -p port -u uri -a attribute and -v value
 
 
